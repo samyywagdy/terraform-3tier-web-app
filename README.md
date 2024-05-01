@@ -12,7 +12,7 @@
 1. **Clone the Github repository.**
 
     ```bash
-    git clone https://github.com/samyywagdy/3tier-web-app.git
+    git clone https://github.com/samyywagdy/terraform-3tier-web-app.git
     ```
     
 1. **Navigate to the `terraform/` directory which contains the Terraform scripts.**
