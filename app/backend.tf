@@ -1,7 +1,7 @@
 terraform {
   backend "s3" {
     bucket = "samy-bucket"
-    key    = "terraform.tfstate"
+    key    = "terraform.tfstatee"
     region = "us-east-1"
     dynamodb_table = "terraform"
   }
