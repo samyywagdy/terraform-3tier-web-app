@@ -1,4 +1,4 @@
-# 3 tier Web Application throgh terraform
+# 3 tier Web Application through terraform
 
 ![system-arch](./architecture.jpg)
 ## Prerequisites
