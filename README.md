@@ -18,7 +18,7 @@
 1. **Navigate to the `terraform/` directory which contains the Terraform scripts.**
 
     ```bash
-    cd 3tier-web-app/app
+    cd terraform-3tier-web-app/app
     ```
 
 1. **Edit the `backend.tf` file according to your configuration.**
